@@ -38,7 +38,7 @@ Output Example:
 
 Your house can be sold between $350000 to $450000
 
-📈 Dataset
+Dataset
 
 File: USA_Housing.csv
 
